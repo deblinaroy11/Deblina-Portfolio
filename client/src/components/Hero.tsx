@@ -127,9 +127,6 @@ export default function Hero() {
           <div className="mt-5 inline-flex items-center gap-2 rounded-full bg-green-50 border border-green-200 px-4 py-1.5">
             <span className="w-2 h-2 rounded-full bg-green-500 animate-soft-pulse" />
             <span className="text-[13px] font-extrabold text-green-700">Open to Work</span>
-            <span className="text-[13px] text-slate-500 font-medium">
-              · {PROFILE.openToWork}
-            </span>
           </div>
 
           {/* Intro */}
